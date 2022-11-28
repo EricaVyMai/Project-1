@@ -1,4 +1,4 @@
-file = open("C:/Users/jwang/Documents/Erika_Project/Project-1/Attendance.txt") #open the text file
+file = open("Attendance.txt","r") #open the text file
 lines = file.readlines() #lines is now a list []
 file.close() #close file
 
