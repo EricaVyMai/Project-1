@@ -43,9 +43,9 @@ District code,District name,School code,School name,2020-2021 student count - ye
 0150011,Bridgeport School District,0150311,Black Rock School,424,0.94,460,0.96,June 2021,08/06/2021
 0150011,Bridgeport School District,0150411,Bryant School,290,0.88,304,0.95,June 2021,08/06/2021
 0150011,Bridgeport School District,0150511,Columbus School,505,0.87,558,0.93,June 2021,08/06/2021
-0150011,Bridgeport School District,0150611,"Biotechnology, Research & Zoological Studies Magnet High School",349,0.87,423,0.94,June 2021,08/06/2021
+0150011,Bridgeport School District,0150611,Biotechnology Research & Zoological Studies Magnet High School,349,0.87,423,0.94,June 2021,08/06/2021
 0150011,Bridgeport School District,0150711,Edison School,196,0.88,187,0.94,June 2021,08/06/2021
-0150011,Bridgeport School District,0150811,"Aerospace/Hydrospace, Engineering and Physical Sciences Magnet High School",292,0.93,346,0.95,June 2021,08/06/2021
+0150011,Bridgeport School District,0150811,Aerospace/Hydrospace Engineering and Physical Sciences Magnet High School,292,0.93,346,0.95,June 2021,08/06/2021
 0150011,Bridgeport School District,0151011,Luis Munoz Marin School,774,0.88,836,0.93,June 2021,08/06/2021
 0150011,Bridgeport School District,0151111,Hall School,167,0.92,186,0.95,June 2021,08/06/2021
 0150011,Bridgeport School District,0151211,Hallen School,260,0.92,274,0.95,June 2021,08/06/2021
@@ -176,9 +176,9 @@ District code,District name,School code,School name,2020-2021 student count - ye
 0430011,East Hartford School District,0430411,Joseph O. Goodwin School,339,0.92,375,0.94,June 2021,08/06/2021
 0430011,East Hartford School District,0430611,Dr. Franklin H. Mayberry School,308,0.90,316,0.95,June 2021,08/06/2021
 0430011,East Hartford School District,0430911,Anna E. Norris School,271,0.85,286,0.94,June 2021,08/06/2021
-0430011,East Hartford School District,0431011,Dr. Thomas S. O'Connell School,522,0.95,550,0.95,June 2021,08/06/2021
+0430011,East Hartford School District,0431011,Dr. Thomas S. O Connell School,522,0.95,550,0.95,June 2021,08/06/2021
 0430011,East Hartford School District,0431211,Silver Lane School,269,0.88,269,0.94,June 2021,08/06/2021
-0430011,East Hartford School District,0431811,Robert J. O'Brien School,374,0.92,365,0.95,June 2021,08/06/2021
+0430011,East Hartford School District,0431811,Robert J. O Brien School,374,0.92,365,0.95,June 2021,08/06/2021
 0430011,East Hartford School District,0432011,Governor William Pitkin School,299,0.96,331,0.95,June 2021,08/06/2021
 0430011,East Hartford School District,0432211,Dr. John A. Langford School,301,0.93,327,0.95,June 2021,08/06/2021
 0430011,East Hartford School District,0432411,Sunset Ridge Middle School,353,0.95,334,0.96,June 2021,08/06/2021
@@ -317,7 +317,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 0640011,Hartford School District,0641211,McDonough Middle School,346,0.79,416,0.92,June 2021,08/06/2021
 0640011,Hartford School District,0641411,Naylor/CCSU Leadership Academy,386,0.91,458,0.94,June 2021,08/06/2021
 0640011,Hartford School District,0641511,Parkville Community School,372,0.89,423,0.93,June 2021,08/06/2021
-0640011,Hartford School District,0641611,"M. L. King, Jr. Middle School",268,0.80,175,0.93,June 2021,08/06/2021
+0640011,Hartford School District,0641611,M L King Jr Middle School,268,0.80,175,0.93,June 2021,08/06/2021
 0640011,Hartford School District,0641711,Rawson School,248,0.86,328,0.91,June 2021,08/06/2021
 0640011,Hartford School District,0641911,Milner Middle School,343,0.75,341,0.91,June 2021,08/06/2021
 0640011,Hartford School District,0642011,Webster Micro Society Magnet School,537,0.92,527,0.95,June 2021,08/06/2021
@@ -329,8 +329,8 @@ District code,District name,School code,School name,2020-2021 student count - ye
 0640011,Hartford School District,0642811,Betances Learning Lab Magnet School,302,0.96,301,0.94,June 2021,08/06/2021
 0640011,Hartford School District,0643011,Sanchez School,322,0.83,351,0.93,June 2021,08/06/2021
 0640011,Hartford School District,0643211,Expeditionary Learning Academy at Moylan School,391,0.88,492,0.93,June 2021,08/06/2021
-0640011,Hartford School District,0643311,"Breakthrough Magnet School, South",289,0.93,278,0.94,June 2021,08/06/2021
-0640011,Hartford School District,0643511,"Breakthrough Magnet School, North",227,0.94,218,0.95,June 2021,08/06/2021
+0640011,Hartford School District,0643311,Breakthrough Magnet School South,289,0.93,278,0.94,June 2021,08/06/2021
+0640011,Hartford School District,0643511,Breakthrough Magnet School North,227,0.94,218,0.95,June 2021,08/06/2021
 0640011,Hartford School District,0643611,Global Communications Academy,450,0.82,575,0.92,June 2021,08/06/2021
 0640011,Hartford School District,0643711,Montessori Magnet at Fisher School,254,0.95,240,0.94,June 2021,08/06/2021
 0640011,Hartford School District,0643811,Betances STEM Magnet School,226,0.94,243,0.94,June 2021,08/06/2021
@@ -520,7 +520,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 0930011,New Haven School District,0934211,Roberto Clemente Leadership Academy for Global Awareness,419,0.84,467,0.94,June 2021,08/06/2021
 0930011,New Haven School District,0934311,Bishop Woods Architecture and Design Magnet School,423,0.84,436,0.94,June 2021,08/06/2021
 0930011,New Haven School District,0934611,East Rock Community Magnet School,392,0.89,410,0.94,June 2021,08/06/2021
-0930011,New Haven School District,0934811,"Celentano BioTech, Health and Medical Magnet School",309,0.87,338,0.94,June 2021,08/06/2021
+0930011,New Haven School District,0934811,Celentano BioTech Health and Medical Magnet School,309,0.87,338,0.94,June 2021,08/06/2021
 0930011,New Haven School District,0934911,West Rock Authors Academy,85,0.73,164,0.93,June 2021,08/06/2021
 0930011,New Haven School District,0935511,Betsy Ross Arts Magnet School,398,0.84,430,0.93,June 2021,08/06/2021
 0930011,New Haven School District,0936011,Metropolitan Business Academy,393,0.80,385,0.92,June 2021,08/06/2021
@@ -559,7 +559,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 0970011,Newtown School District,0970111,Hawley Elementary School,280,0.97,299,0.96,June 2021,08/06/2021
 0970011,Newtown School District,0970211,Sandy Hook Elementary School,355,0.97,367,0.96,June 2021,08/06/2021
 0970011,Newtown School District,0970311,Middle Gate Elementary School,383,0.97,363,0.96,June 2021,08/06/2021
-0970011,Newtown School District,0970411,Head O'Meadow Elementary School,299,0.97,295,0.95,June 2021,08/06/2021
+0970011,Newtown School District,0970411,Head O Meadow Elementary School,299,0.97,295,0.95,June 2021,08/06/2021
 0970011,Newtown School District,0970511,Reed Intermediate School,585,0.97,561,0.96,June 2021,08/06/2021
 0970011,Newtown School District,0975111,Newtown Middle School,623,0.96,680,0.96,June 2021,08/06/2021
 0970011,Newtown School District,0976111,Newtown High School,1432,0.96,1499,0.96,June 2021,08/06/2021
@@ -601,11 +601,11 @@ District code,District name,School code,School name,2020-2021 student count - ye
 1040011,Norwich School District,1041411,John B. Stanton School,335,0.95,314,0.96,June 2021,08/06/2021
 1040011,Norwich School District,1041511,Wequonnoc Magnet School,265,0.95,264,0.95,June 2021,08/06/2021
 1040011,Norwich School District,1041711,Thomas W. Mahan School,228,0.97,219,0.96,June 2021,08/06/2021
-1040011,Norwich School District,1041811,Veterans' Memorial School,234,0.94,297,0.95,June 2021,08/06/2021
+1040011,Norwich School District,1041811,Veterans Memorial School,234,0.94,297,0.95,June 2021,08/06/2021
 1040011,Norwich School District,1041911,Uncas Elementary School,257,0.94,268,0.96,June 2021,08/06/2021
 1040011,Norwich School District,1042011,Moriarty Magnet School,418,0.94,382,0.96,June 2021,08/06/2021
 1040011,Norwich School District,1045111,Kelly STEAM Magnet Middle School,652,0.90,634,0.95,June 2021,08/06/2021
-1040011,Norwich School District,1045211,Teachers' Memorial Global Studies Magnet Middle School,406,0.94,406,0.95,June 2021,08/06/2021
+1040011,Norwich School District,1045211,Teachers Memorial Global Studies Magnet Middle School,406,0.94,406,0.95,June 2021,08/06/2021
 1060011,Old Saybrook School District,1060211,Kathleen E. Goodwin School,325,0.98,344,0.96,June 2021,08/06/2021
 1060011,Old Saybrook School District,1065211,Old Saybrook Middle School,340,0.98,364,0.96,June 2021,08/06/2021
 1060011,Old Saybrook School District,1066111,Old Saybrook Senior High School,373,0.98,427,0.91,June 2021,08/06/2021
@@ -636,7 +636,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 1130011,Portland School District,1130511,Brownstone Intermediate School,196,0.96,195,0.96,June 2021,08/06/2021
 1130011,Portland School District,1135111,Portland Middle School,210,0.94,205,0.96,June 2021,08/06/2021
 1130011,Portland School District,1136111,Portland High School,347,0.92,363,0.95,June 2021,08/06/2021
-1140011,Preston School District,1140411,Preston Veterans' Memorial School,267,0.95,260,0.95,June 2021,08/06/2021
+1140011,Preston School District,1140411,Preston Veterans Memorial School,267,0.95,260,0.95,June 2021,08/06/2021
 1140011,Preston School District,1145111,Preston Plains School,139,0.96,147,0.95,June 2021,08/06/2021
 1160011,Putnam School District,1160311,Putnam Elementary School,501,0.93,524,0.94,June 2021,08/06/2021
 1160011,Putnam School District,1165111,Putnam Middle School,268,0.84,282,0.94,June 2021,08/06/2021
@@ -677,7 +677,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 1280011,Simsbury School District,1280111,Central School,387,0.97,370,0.96,June 2021,08/06/2021
 1280011,Simsbury School District,1280211,Farmington Valley Transition Academy,34,0.92,33,0.95,June 2021,08/06/2021
 1280011,Simsbury School District,1280311,Tariffville School,246,0.96,245,0.96,June 2021,08/06/2021
-1280011,Simsbury School District,1280411,Tootin' Hills School,364,0.96,373,0.96,June 2021,08/06/2021
+1280011,Simsbury School District,1280411,Tootin Hills School,364,0.96,373,0.96,June 2021,08/06/2021
 1280011,Simsbury School District,1280611,Latimer Lane School,439,0.97,436,0.96,June 2021,08/06/2021
 1280011,Simsbury School District,1280711,Squadron Line School,612,0.96,604,0.95,June 2021,08/06/2021
 1280011,Simsbury School District,1285111,Henry James Memorial School,621,0.98,623,0.96,June 2021,08/06/2021
@@ -729,7 +729,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 1350011,Stamford School District,1355811,Rippowam Middle School,797,0.93,786,0.96,June 2021,08/06/2021
 1350011,Stamford School District,1356111,Stamford High School,1856,0.90,1787,0.95,June 2021,08/06/2021
 1350011,Stamford School District,1356311,Westhill High School,2186,0.92,2211,0.94,June 2021,08/06/2021
-1350011,Stamford School District,1356411,"The Academy of Information, Technology & Engineering",627,0.97,613,0.96,June 2021,08/06/2021
+1350011,Stamford School District,1356411,The Academy of Information Technology and Engineering,627,0.97,613,0.96,June 2021,08/06/2021
 1360011,Sterling School District,1360311,Sterling Community School,290,0.91,319,0.94,June 2021,08/06/2021
 1370011,Stonington School District,1370511,Deans Mill School,443,0.94,460,0.95,June 2021,08/06/2021
 1370011,Stonington School District,1370611,West Vine Street School,331,0.90,321,0.95,June 2021,08/06/2021
@@ -893,8 +893,8 @@ District code,District name,School code,School name,2020-2021 student count - ye
 1570011,Weston School District,1575111,Weston Middle School,556,0.97,581,0.96,June 2021,08/06/2021
 1570011,Weston School District,1576111,Weston High School,785,0.97,789,0.96,June 2021,08/06/2021
 1580011,Westport School District,1580311,Coleytown Elementary School,425,0.97,397,0.95,June 2021,08/06/2021
-1580011,Westport School District,1580411,Green's Farms School,413,0.97,376,0.96,June 2021,08/06/2021
-1580011,Westport School District,1580511,King's Highway Elementary School,459,0.96,450,0.96,June 2021,08/06/2021
+1580011,Westport School District,1580411,Greens Farms School,413,0.97,376,0.96,June 2021,08/06/2021
+1580011,Westport School District,1580511,Kings Highway Elementary School,459,0.96,450,0.96,June 2021,08/06/2021
 1580011,Westport School District,1580711,Long Lots School,560,0.97,519,0.96,June 2021,08/06/2021
 1580011,Westport School District,1580811,Saugatuck Elementary School,409,0.97,420,0.96,June 2021,08/06/2021
 1580011,Westport School District,1585111,Bedford Middle School,771,0.97,1255,0.96,June 2021,08/06/2021
@@ -1075,7 +1075,7 @@ District code,District name,School code,School name,2020-2021 student count - ye
 9000016,Connecticut Technical Education and Career System,9002216,Oliver Wolcott Technical High School,608,0.92,611,0.95,June 2021,08/06/2021
 9000016,Connecticut Technical Education and Career System,9002316,W. F. Kaynor Technical High School,784,0.96,791,0.95,June 2021,08/06/2021
 9000016,Connecticut Technical Education and Career System,9002416,Windham Technical High School,470,0.92,455,0.95,June 2021,08/06/2021
-9000016,Connecticut Technical Education and Career System,9002516,Emmett O'Brien Technical High School,668,0.95,632,0.95,June 2021,08/06/2021
+9000016,Connecticut Technical Education and Career System,9002516,Emmett OBrien Technical High School,668,0.95,632,0.95,June 2021,08/06/2021
 9000016,Connecticut Technical Education and Career System,9002616,Platt Technical High School,808,0.93,792,0.95,June 2021,08/06/2021
 9000016,Connecticut Technical Education and Career System,9002716,Ella T. Grasso Technical High School,560,0.95,524,0.95,June 2021,08/06/2021
 9010022,Norwich Free Academy District,9016122,Norwich Free Academy,2067,0.89,2231,0.93,June 2021,08/06/2021
