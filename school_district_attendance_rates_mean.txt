@@ -1,0 +1,198 @@
+School district, Attendance rates mean 2020-2021
+Andover School District , 0.97
+Ansonia School District , 0.89
+Hamden School District , 0.8742857142857142
+Ashford School District , 0.95
+Avon School District , 0.966
+Barkhamsted School District , 0.97
+Berlin School District , 0.9559999999999998
+Bethany School District , 0.96
+Bethel School District , 0.954
+Bloomfield School District , 0.94
+Bolton School District , 0.945
+Bozrah School District , 0.97
+Branford School District , 0.95
+Bridgeport School District , 0.8918918918918919
+Bristol School District , 0.8933333333333333
+Brookfield School District , 0.96
+Brooklyn School District , 0.9299999999999999
+Canaan School District , 0.97
+Canterbury School District , 0.96
+Canton School District , 0.9549999999999998
+Chaplin School District , 0.95
+Cheshire School District , 0.93375
+Chester School District , 0.97
+Clinton School District , 0.9533333333333333
+Colchester School District , 0.95
+Colebrook School District , 0.96
+Columbia School District , 0.95
+Cornwall School District , 0.97
+Coventry School District , 0.9525
+Cromwell School District , 0.9549999999999998
+Danbury School District , 0.9233333333333333
+Darien School District , 0.9757142857142858
+Deep River School District , 0.98
+Derby School District , 0.8780000000000001
+Eastford School District , 0.95
+East Granby School District , 0.925
+East Haddam School District , 0.9666666666666667
+East Hampton School District , 0.96
+East Hartford School District , 0.8785714285714284
+East Haven School District , 0.9357142857142858
+East Lyme School District , 0.9600000000000002
+Easton School District , 0.97
+East Windsor School District , 0.8733333333333334
+Ellington School District , 0.9559999999999998
+Enfield School District , 0.9625
+Essex School District , 0.98
+Fairfield School District , 0.9352941176470587
+Farmington School District , 0.9657142857142856
+Franklin School District , 0.97
+Glastonbury School District , 0.9655555555555555
+Granby School District , 0.97
+Greenwich School District , 0.954375
+Griswold School District , 0.9433333333333334
+Groton School District , 0.8914285714285715
+Guilford School District , 0.9757142857142856
+Hampton School District , 0.95
+Hartford School District , 0.7985106382978722
+Hartland School District , 0.91
+Hebron School District , 0.97
+Kent School District , 0.97
+Killingly School District , 0.8975
+Lebanon School District , 0.9633333333333333
+Ledyard School District , 0.8620000000000001
+Lisbon School District , 0.95
+Litchfield School District , 0.9500000000000001
+Madison School District , 0.9759999999999998
+Manchester School District , 0.834
+Mansfield School District , 0.96
+Marlborough School District , 0.95
+Meriden School District , 0.8970588235294118
+Middletown School District , 0.9325
+Milford School District , 0.9342857142857142
+Monroe School District , 0.9780000000000001
+Montville School District , 0.8716666666666666
+Naugatuck School District , 0.9377777777777777
+New Britain School District , 0.8515
+New Canaan School District , 0.978
+New Fairfield School District , 0.96
+New Hartford School District , 0.9733333333333333
+New Haven School District , 0.8282222222222224
+Newington School District , 0.9657142857142856
+New London School District , 0.8674999999999999
+New Milford School District , 0.9400000000000001
+Newtown School District , 0.9671428571428571
+Norfolk School District , 0.95
+North Branford School District , 0.9575
+North Canaan School District , 0.96
+North Haven School District , 0.9699999999999999
+North Stonington School District , 0.94
+Norwalk School District , 0.9357894736842104
+Norwich School District , 0.9349999999999998
+Old Saybrook School District , 0.98
+Orange School District , 0.9675
+Oxford School District , 0.9566666666666667
+Plainfield School District , 0.9100000000000001
+Plainville School District , 0.9400000000000001
+Plymouth School District , 0.905
+Pomfret School District , 0.98
+Portland School District , 0.9460000000000001
+Preston School District , 0.955
+Putnam School District , 0.89
+Redding School District , 0.97
+Ridgefield School District , 0.9788888888888891
+Rocky Hill School District , 0.9639999999999999
+Salem School District , 0.96
+Salisbury School District , 0.97
+Scotland School District , 0.95
+Seymour School District , 0.9500000000000001
+Sharon School District , 0.96
+Shelton School District , 0.9474999999999999
+Sherman School District , 0.96
+Simsbury School District , 0.9625000000000001
+Somers School District , 0.9533333333333333
+Southington School District , 0.9581818181818181
+South Windsor School District , 0.9766666666666667
+Sprague School District , 0.92
+Stafford School District , 0.95
+Stamford School District , 0.9363636363636361
+Sterling School District , 0.91
+Stonington School District , 0.925
+Stratford School District , 0.9126666666666665
+Suffield School District , 0.9600000000000001
+Thomaston School District , 0.9233333333333333
+Thompson School District , 0.8933333333333332
+Tolland School District , 0.975
+Torrington School District , 0.91
+Trumbull School District , 0.9530000000000001
+Vernon School District , 0.9485714285714286
+Voluntown School District , 0.95
+Wallingford School District , 0.9515384615384614
+Waterbury School District , 0.8961363636363638
+Waterford School District , 0.9560000000000001
+Watertown School District , 0.958
+Westbrook School District , 0.9700000000000001
+West Hartford School District , 0.9521052631578947
+West Haven School District , 0.9036363636363636
+Weston School District , 0.97
+Westport School District , 0.9671428571428571
+Wethersfield School District , 0.9685714285714285
+Willington School District , 0.91
+Wilton School District , 0.965
+Winchester School District , 0.94
+Windham School District , 0.8628571428571429
+Windsor School District , 0.9257142857142858
+Windsor Locks School District , 0.892
+Wolcott School District , 0.958
+Woodbridge School District , 0.97
+Woodstock School District , 0.97
+Regional School District 01 , 0.88
+Regional School District 04 , 0.965
+Regional School District 05 , 0.9566666666666667
+Regional School District 06 , 0.9574999999999999
+Regional School District 07 , 0.91
+Regional School District 08 , 0.96
+Regional School District 09 , 0.95
+Regional School District 10 , 0.955
+Regional School District 11 , 0.93
+Regional School District 12 , 0.9524999999999999
+Regional School District 13 , 0.962
+Regional School District 14 , 0.97
+Regional School District 15 , 0.9714285714285714
+Regional School District 16 , 0.9624999999999999
+Regional School District 17 , 0.958
+Regional School District 18 , 0.9650000000000001
+Regional School District 19 , 0.97
+Capitol Region Education Council , 0.8963157894736843
+EdAdvance , 0.62
+Cooperative Educational Services , 0.8879999999999999
+Area Cooperative Educational Services , 0.77
+Learn , 0.8799999999999999
+Eastern Connecticut Regional Educational Service Center (EASTCONN) , 0.7999999999999999
+Jumoke Academy District , 0.94
+Odyssey Community School District , 0.96
+Integrated Day Charter School District , 0.95
+Interdistrict School for Arts and Comm District , 0.96
+Common Ground High School District , 0.78
+The Bridge Academy District , 0.93
+Side By Side Charter School District , 0.94
+Explorations District , 0.85
+Amistad Academy District , 0.94
+New Beginnings Inc Family Academy District , 0.8
+Park City Prep Charter School District , 0.92
+Achievement First Bridgeport Academy District , 0.94
+Highville Charter School District , 0.95
+Achievement First Hartford Academy District , 0.9
+Elm City College Preparatory School District , 0.94
+Brass City Charter School District , 0.92
+Elm City Montessori School District , 0.93
+Great Oaks Charter School District , 0.96
+Booker T. Washington Academy District , 0.86
+Stamford Charter School for Excellence District , 0.97
+Capital Preparatory Harbor School District , 0.94
+Unified School District #1 , 0.96
+Connecticut Technical Education and Career System , 0.9299999999999998
+Norwich Free Academy District , 0.89
+The Gilbert School District , 0.94
+The Woodstock Academy District , 0.96
