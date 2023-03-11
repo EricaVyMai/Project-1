@@ -1,0 +1,4 @@
+Geeks Header Examples: 
+https://www.geeksforgeeks.org/header-files-in-c-cpp-and-its-uses/ 
+Header documentations:
+https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170 
