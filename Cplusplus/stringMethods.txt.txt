@@ -1,0 +1,18 @@
+str1 = "Hello";
+//H e l l o string
+//0 1 2 3 4 indexes
+str1.substr(1); //ello
+str1.substr(2,4); //ll
+
+str1.front(); //H
+str1.back(); //o
+
+#include <string>
+//ALL string conversions
+// https://cplusplus.com/reference/string/stod/ 
+string strx = 16;
+//converting it
+int x = stoi(strx);
+
+//YOU CAN ALSO USE STRINGSTREAM
+// https://www.geeksforgeeks.org/stringstream-c-applications/ 

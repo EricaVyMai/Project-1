@@ -1,0 +1,13 @@
+Functions can return any data type:
+
+function syntax
+returnType func(parameters){
+    return variabe //variable has to be of the same type as returnType
+}
+
+void print(){
+    return; //it doesn't return anything
+}
+
+# https://www.geeksforgeeks.org/understanding-constexper-specifier-in-cpp/
+constexpr int product(int x, int y) { return (x * y); }

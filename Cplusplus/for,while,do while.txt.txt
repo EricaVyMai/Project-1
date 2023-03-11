@@ -1,0 +1,22 @@
+#ways for a for loop
+
+for(int i=0; i<v1.size(); i++){ //index way
+}
+
+for(int x: v1){ //loops through individual elements
+}
+
+for(auto x: v1){
+}
+for(vector<int>::iterator itr = v1.begin(); itr != v1.end(); itr++){
+}
+
+#while loops/do while
+
+while(condition){
+}
+
+do{
+
+}while(condition);
+
