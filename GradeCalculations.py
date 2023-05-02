@@ -52,4 +52,5 @@ LabAvg = LabsList[0] * Labs
 ExamsAvg = (ExamsList[0] + .3)/2 * Exams
 PrepAvg = PrepList[0]  * Prep
 total = LabAvg + ExamsAvg + PrepAvg
-print(str((total/.65)*100)[0:5])
+print(round((total/.65)*100),2)) #round 2 decimal places
+
